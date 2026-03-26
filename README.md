@@ -32,6 +32,12 @@ python -m http.server 8765
 
 GitHub Pages, Netlify, Vercel 등 정적 호스팅에 `index.html`이 있는 폴더를 그대로 올리면 됩니다. 빌드 단계는 없습니다.
 
+### GitHub Pages (이 저장소)
+
+- **공개 URL:** [https://smiler0902.github.io/pr/](https://smiler0902.github.io/pr/)
+- 저장소를 처음 연 직후에는 Pages 빌드가 끝나기까지 **1~2분** 걸릴 수 있습니다. 그동안은 404가 나올 수 있으니 잠시 후 다시 열어 보세요.
+- 주소는 반드시 **`/pr/`** 까지 포함해야 합니다. (`username.github.io`만 열면 사용자 사이트가 없어 404가 납니다.)
+
 ## 선택 사항
 
 - 파비콘: 루트에 `favicon.ico`를 두면 브라우저 탭 아이콘이 생깁니다.
